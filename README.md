@@ -10,7 +10,7 @@ Contohnya adalah:
  *  *  *  *
  *  *  *  *  *
 ```
-- Segitiga Siku-Sikut Terbalik
+- Segitiga Siku-Siku Terbalik
 ```
  *  *  *  *  *
  *  *  *  *
